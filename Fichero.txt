@@ -1,3 +1,10 @@
 primera mod
 segunda mod
+<<<<<<< HEAD
 tercera mod
+=======
+tercera mod
+cuarta mod
+quinta mod
+sexta mod
+>>>>>>> f5d1c2c (sexta mod)
